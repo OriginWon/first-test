@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(73, 123, 167);
+}
+h1, h2, h3, h4, h5, h6, p {
+    color: white;
+}
+.content {
+    border: 1px solid white;
+    padding: 18px;
+}
